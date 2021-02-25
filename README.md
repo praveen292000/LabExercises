@@ -1,2 +1,2 @@
 # LabExercises
-Lab Excersises by Praveen
+Lab Exercises by Praveen
